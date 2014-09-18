@@ -113,7 +113,7 @@ $(document).ready(function(){
 	}
 }];
 
-var mapVar = L.map('mapDiv').setView([37.774, -122.419], 5);
+var mapVar = L.map('mapDiv').setView([37.774, -122.4194], 5);
 //function showMap () {
 	
 	var tileLayer =	L.tileLayer(
